@@ -43,6 +43,15 @@
     </item>
     
     <item>
+      <title>zzzz</title>
+      <link>https://110130136.github.io/js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://110130136.github.io/js/</guid>
+      <description>  #scr{ width:93vw; .common { background-color: grey; width: 24vw padding: 0px; boeder:none; } .special{ background-color: green; width: 24vw padding: 0px; boeder:none; }   function do7() { scr.value=scr.value+&#34;7&#34; } function do8(){ scr.value=scr.value+&#34;8&#34; } function d09(){ scr.value=scr.value+&#34;9&#34; } function donumber(e){ scr.value=scr.value+e.value } function clearscr() { scr.value=&#34;&#34; } function doequ() { temp=eval(scr.value) scr.value= temp.toPrecision(15) }        </description>
+    </item>
+    
+    <item>
       <title>模板</title>
       <link>https://110130136.github.io/js/%E6%A8%A1%E6%9D%BF.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
